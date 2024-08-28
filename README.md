@@ -14,7 +14,7 @@ This project is a simple 2D sand simulation created using Python and the Pygame 
 1. Clone the repository:
     ```bash
     git clone https://github.com/SaiSrikarK03/Sand-Simulation-2D.git
-    cd 2d-sand-simulation
+    cd Sand-Simulation-2D
     ```
 
 2. Install required packages:
