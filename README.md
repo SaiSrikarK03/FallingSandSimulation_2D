@@ -25,7 +25,7 @@ This project is a simple 2D sand simulation created using Python and the Pygame 
 
 3. Run the simulation:
     ```bash
-    python sand_simulation.py
+    python Sand_Simulation2D.py
     ```
 
 ## How to Use
@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Enjoy experimenting with this 2D sand simulation and have fun exploring the world of physics-based animations!
-Additionally i have also created cement failling simulation , do check that out aswell!
+Additionally i have also created cement falling simulation , do check that out aswell!
