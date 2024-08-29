@@ -1,6 +1,6 @@
-# 2D Sand Simulation
+# 2D Sand  falling Simulation
 
-This project is a simple 2D sand simulation created using Python and the Pygame library. It visually simulates falling sand particles that react to the environment, producing natural and interesting patterns.
+This project is a simple 2D sand falling simulation created using Python and the Pygame library. It visually simulates falling sand particles that react to the environment, producing natural and interesting patterns.
 
 ## Features
 
